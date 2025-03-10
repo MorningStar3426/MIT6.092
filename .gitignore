@@ -1,0 +1,26 @@
+# 忽略所有的 "out" 文件夹
+out/
+
+# 忽略所有的 .xml 配置文件
+*.xml
+
+# 忽略所有的 .iml 配置文件
+*.iml
+
+# 忽略所有的 .class 编译文件
+*.class
+
+# 忽略所有的 .classpath 文件
+*.classpath
+
+# 忽略所有的 .project 文件
+*.project
+
+# 忽略 macOS 的 .DS_Store 文件
+.DS_Store
+
+# 忽略 .idea 文件夹
+.idea/
+
+# 忽略所有子目录中的 .gitignore 文件 (请谨慎使用，详见解释)
+*/.gitignore
