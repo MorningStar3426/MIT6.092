@@ -1,8 +1,7 @@
-# MIT6.092 Course Materials
+# MIT6.092 Course Notes
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-> Repository for MIT6.092 Introduction to Programming in Java
 
 <details>
 <summary>🇨🇳 查看中文版本</summary>
@@ -41,9 +40,12 @@ git clone https://github.com/MorningStar3426/MIT6.092.git
 - 面向对象编程
 - ...
 
-### 📄 许可证
-[MIT许可证](https://opensource.org/licenses/MIT)
+### 版权声明
+- 本仓库中的课程讲义原文、作业题目版权归属[MIT 6.092课程](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/)所有
+- 我的代码实现、学习笔记及补充材料采用 [MIT License](https://opensource.org/licenses/MIT) 授权
 </details>
+
+
 
 ## 📚 Repository Overview
 This repository contains my learning materials and assignments for the MIT6.092 course. The content includes:
@@ -75,6 +77,8 @@ Key concepts covered in [note.md](note.md):
 - Object-oriented programming
 - ...
 
-## 📄 License
-[MIT License](https://opensource.org/licenses/MIT)
+## 📄 Legal Notice 
+This repository contains materials from MIT's 6.092 course.  
+Course content copyright © Massachusetts Institute of Technology.  
+My personal contributions are licensed under [MIT License](https://opensource.org/licenses/MIT).
 
