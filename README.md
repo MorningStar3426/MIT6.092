@@ -42,7 +42,7 @@ git clone https://github.com/MorningStar3426/MIT6.092.git
 - ...
 
 ### 📄 许可证
-MIT许可证。详情见[LICENSE](LICENSE)文件。
+[MIT许可证](https://opensource.org/licenses/MIT)
 </details>
 
 ## 📚 Repository Overview
@@ -76,5 +76,5 @@ Key concepts covered in [note.md](note.md):
 - ...
 
 ## 📄 License
-MIT Licensed. See [LICENSE](LICENSE) for details.
+[MIT License](https://opensource.org/licenses/MIT)
 
